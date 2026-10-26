@@ -1,5 +1,5 @@
 # ChatGeePeeTee
-Discord bot thats litterally just an LLM
+discord bot thats litterally just an LLM
 
 hosted on my PC manually, so best believe its not currently active
 
