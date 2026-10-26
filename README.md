@@ -1,6 +1,8 @@
 # ChatGeePeeTee
 Discord bot thats litterally just an LLM
 
+hosted on my PC manually, so best believe its not currently active
+
 ## Setup
 
 1. `python -m venv .venv` and activate it
