@@ -1,0 +1,4 @@
+discord.py
+requests
+openai<1.0
+python-dotenv
